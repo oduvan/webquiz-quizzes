@@ -1,31 +1,31 @@
 questions:
-- correct_answer: 1
+- correct_answer: 2
   options:
-  - /imgs/main_tl_pin.png
-  - /imgs/main_tl_geo.png
-  - /imgs/main_tl_tak.png
-  question: Яка з цих кнопок переведе цілик в вашу геопозицію?
+  - /imgs/h_circ.png
+  - /imgs/h_zoom.png
+  - /imgs/h_geo.png
+  question: Яка з цих кнопок переведе цілик на поточну координату?
 - correct_answer: 0
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Який тип координати 36U XU 34674 23457 ?
+  question: Що це за координата 36U XU 34674 23457
 - correct_answer: 2
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Який тип координати 53-67534, 66-88656 ?
+  question: Що це за координата 53-67534, 66-88656
 - correct_answer: 3
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Який тип координати 48.67543, 35.86565 ?
+  question: Що це за координата 48.67543, 35.86565
 - correct_answer: 0
   options:
   - MGRS
@@ -42,14 +42,14 @@ questions:
   question: Цивільний скинув координату з Google Карти. Яка це буде система координат?
 - correct_answer: 1
   options:
-  - /imgs/main_tl_zoom.png
-  - /imgs/main_tl_pin.png
-  - /imgs/main_tl_circl.png
+  - /imgs/h_circ.png
+  - /imgs/h_pin.png
+  - /imgs/h_sat.png
   question: Яку кнопку використати, щоб карта перестала рухатися?
-- correct_answer: 1
+- correct_answer: 2
   options:
-  - /imgs/main_tl_circl.png
-  - /imgs/main_tr_komp.png
-  - /imgs/main_tl_tak.png
-  question: За допомогою якої з цих кнопок можна обертати карту? Щоб вона була обернута
-    не на північ, а в інший бік
+  - /imgs/h_tak.png
+  - /imgs/h_zoom.png
+  - /imgs/h_comp.png
+  - /imgs/tenet.jpeg
+  question: Яка з цих кнопок розгорне карту?
