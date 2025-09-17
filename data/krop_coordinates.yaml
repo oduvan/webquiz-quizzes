@@ -1,56 +1,63 @@
+title: Основний інтерфейс
 questions:
-- correct_answer: 1
+- question: Яка з цих кнопок переведе карту на вашу геопозицію?
   options:
   - /imgs/main_tl_pin.png
   - /imgs/main_tl_geo.png
   - /imgs/main_tl_tak.png
-  question: Яка з цих кнопок переведе цілик в вашу геопозицію?
-- correct_answer: 0
+  correct_answer: 1
+
+- question: 36U XU 34674 23457 — який це тип координат?
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Який тип координати 36U XU 34674 23457 ?
-- correct_answer: 2
+  correct_answer: 0
+
+- question: 53-67534, 66-88656 — який це тип координат?
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Який тип координати 53-67534, 66-88656 ?
-- correct_answer: 3
+  correct_answer: 2
+
+- question: 48.67543, 35.86565 — який це тип координат?
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Який тип координати 48.67543, 35.86565 ?
-- correct_answer: 0
+  correct_answer: 3
+
+- question: Яка система координат наразі використовується у Збройних Силах України?
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Яка система координат наразі використовується в Збройних Силах?
-- correct_answer: 3
+  correct_answer: 0
+
+- question: Якщо цивільний надіслав координати з Google Maps, то в якій вони системі?
   options:
   - MGRS
   - UTM
   - УСК-2000
   - WGS84
-  question: Цивільний скинув координату з Google Карти. Яка це буде система координат?
-- correct_answer: 1
+  correct_answer: 3
+
+- question: Яку кнопку потрібно натиснути, щоб карта перестала рухатися?
   options:
   - /imgs/main_tl_zoom.png
   - /imgs/main_tl_pin.png
   - /imgs/main_tl_circl.png
-  question: Яку кнопку використати, щоб карта перестала рухатися?
-- correct_answer: 1
+  correct_answer: 1
+
+- question: Якою кнопкою можна обертати карту так, щоб вона була зорієнтована не лише на північ?
   options:
   - /imgs/main_tl_circl.png
   - /imgs/main_tr_komp.png
   - /imgs/main_tl_tak.png
-  question: За допомогою якої з цих кнопок можна обертати карту? Щоб вона була обернута
-    не на північ, а в інший бік
-title: Основний інтерфейс
+  correct_answer: 1
+
