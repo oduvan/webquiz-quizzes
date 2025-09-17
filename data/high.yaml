@@ -13,7 +13,7 @@ questions:
   - Цільова
   - На одній висоті
   question: Яка з двох точек вища? Початкова чи цільова?
-- correct_answer: 0
+- correct_answer: 1
   options:
   - /imgs/main_tl_pin.png
   - /imgs/main_tl_zriz.png
