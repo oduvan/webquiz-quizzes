@@ -1,0 +1,64 @@
+questions:
+- correct_answer: 1
+  image: /imgs/tool-circl-center.png
+  options:
+  - 30-00
+  - 10-00
+  - 1-00
+  question: Який дерекційний кут на зображені (в 60-00)?
+- correct_answer: 0
+  image: /imgs/tool-circl-panel.png
+  options:
+  - Початкова
+  - Цільова
+  - На одній висоті
+  question: Яка з двох точек вища? Початкова чи цільова?
+- correct_answer: 0
+  options:
+  - /imgs/main_tl_pin.png
+  - /imgs/main_tl_zriz.png
+  - /imgs/main_tl_plus.png
+  question: Яка кнопка відкриє зріз висот?
+- correct_answer: 1
+  image: /imgs/screen_visot.png
+  options:
+  - Зріз висот
+  - Карта висот
+  - Пряма видимість
+  question: Який інструмент наразі використовується?
+- correct_answer: 0
+  image: /imgs/screen_visot_arrow.png
+  options:
+  - Найвищу точку
+  - Найнижщу точку
+  - Місце де багато риби
+  question: На яку точку показує стрілка на карті висот?
+- correct_answer: 2
+  image: /imgs/screen_pryamo.png
+  options:
+  - Зріз висот
+  - Карта висот
+  - Пряма видимість
+  question: Який інструмент наразі використовується
+- correct_answer: 0
+  image: /imgs/screen_pryamo_arrow.png
+  options:
+  - Спостерігач буде бачити цю точку
+  - Спостерігач не буде бачити цю точку
+  question: На яку точку показує стрілка на прямий видимості?
+- correct_answer: 2
+  image: /imgs/screen_zriz.png
+  options:
+  - Натиснути на точку на зрізу висот, а потім на стрілку ліворуч
+  - Натиснути на точку на зрізу висот, та закрити вікно
+  - Натиснути на точку на зрізу висот, та кнопку з ціликом
+  question: На зрізі висот мене зацікавив великий перепад в середені зріза висот.
+    Я хочу подивитися де це знаходиться на карти.
+- correct_answer: 1
+  image: /imgs/zriz_calc_button.png
+  options:
+  - Відкриває калькулятор, де зручно робити підрахунки
+  - Відкриває інструмент розрахунку прямої видимості
+  - Відкриває балістичний калькулятор
+  question: Що робить кнопка калькулятора в правому верхньому куті?
+title: Висоти
