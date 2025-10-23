@@ -1,0 +1,140 @@
+questions:
+- correct_answer: 3
+  options:
+  - MGRS
+  - UTM
+  - УСК-2000
+  - WGS84
+  question: 48.67543, 35.86565 — який це тип координат?
+- correct_answer: 3
+  options:
+  - MGRS
+  - UTM
+  - УСК-2000
+  - WGS84
+  question: Якщо цивільний надіслав координати з Google Maps, то в якій вони системі?
+- correct_answer: 1
+  image: /imgs/tool-circl-center.png
+  options:
+  - 30-00
+  - 10-00
+  - 1-00
+  question: Який дирекційний кут показано на зображенні (в 60-00)?
+- correct_answer: 0
+  image: /imgs/tool-circl-panel.png
+  options:
+  - Початкова
+  - Цільова
+  - На одній висоті
+  question: Яка з двох точок знаходиться вище — початкова чи цільова?
+- correct_answer: 1
+  options:
+  - /imgs/main_tl_pin.png
+  - /imgs/main_tl_zriz.png
+  - /imgs/main_tl_plus.png
+  question: Яка кнопка відкриває зріз висот?
+- correct_answer: 1
+  image: /imgs/screen_visot.png
+  options:
+  - Зріз висот
+  - Карта висот
+  - Пряма видимість
+  question: Який інструмент зараз використовується?
+- correct_answer: 0
+  image: /imgs/screen_visot_arrow.png
+  options:
+  - Найвищу точку
+  - Найнижчу точку
+  - Місце, де багато риби
+  question: На яку точку вказує стрілка на карті висот?
+- correct_answer: 2
+  image: /imgs/screen_pryamo.png
+  options:
+  - Зріз висот
+  - Карта висот
+  - Пряма видимість
+  question: Який інструмент зараз використовується?
+- correct_answer: 0
+  image: /imgs/screen_pryamo_arrow.png
+  options:
+  - Спостерігач бачитиме цю точку
+  - Спостерігач не бачитиме цю точку
+  question: На яку точку вказує стрілка на прямій видимості?
+- correct_answer: 2
+  image: /imgs/screen_zriz.png
+  options:
+  - Натиснути на точку на зрізі висот, а потім на стрілку ліворуч
+  - Натиснути на точку на зрізі висот, та закрити вікно
+  - Натиснути на точку на зрізі висот, а потім на кнопку з ціликом
+  question: На зрізі висот мене зацікавив великий перепад у середині профілю. Як подивитися,
+    де це на карті?
+- correct_answer: 1
+  image: /imgs/zriz_calc_button.png
+  options:
+  - Відкриває калькулятор для зручних підрахунків
+  - Відкриває інструмент розрахунку прямої видимості
+  - Відкриває балістичний калькулятор
+  question: Яку функцію виконує кнопка із зображенням калькулятора у правому верхньому
+    куті?
+- correct_answer:
+  - 0
+  - 2
+  options:
+  - OSM
+  - Visicom
+  - Генштаб
+  question: На якій топооснові можна побачити лінію електро передач?
+- correct_answer: 1
+  options:
+  - Генштаб
+  - OSM
+  - Супутник
+  question: Яка з топооснов створюється волонтерами?
+- correct_answer: 0
+  options:
+  - Супутник
+  - Генштаб
+  - Visicom
+  question: Яке з топооснов займає більше за все місця?
+- correct_answer: 1
+  options:
+  - Генштаб
+  - Visicom
+  - OSM
+  question: На якій топооснові найкраще відображено міську забудову та дороги?
+- correct_answer: 1
+  options:
+  - /imgs/desk_res.png
+  - /imgs/desk_onov.png
+  - /imgs/desk_rm.png
+  question: Як з цих додатків встановлюється першим?
+- correct_answer: 0
+  options:
+  - /imgs/desk_res.png
+  - /imgs/desk_onov.png
+  - /imgs/desk_rm.png
+  question: Яке з додатків допомагає завантажити топооснови в памʼять пристрою?
+- correct_answer: 2
+  options:
+  - Бойовий Порядок
+  - Сцени
+  - Треки
+  question: Який тип даних можна експортувати без введення пароля?
+- correct_answer: 1
+  image: /imgs/main_fast_bottom.png
+  options:
+  - Створити трек
+  - Швидке переключення між топоосновами
+  - Звернути додаток
+  question: Яку функцію виконує кнопка, розташована ліворуч від координат у нижній
+    частині екрана?
+- correct_answer:
+  - 0
+  - 2
+  options:
+  - Інструктор Довжик або Victory Drones
+  - Google
+  - Відповідальна Особа
+  question: Де можна знайти apk для встановлення Кропиви?
+randomize_questions: false
+show_right_answer: true
