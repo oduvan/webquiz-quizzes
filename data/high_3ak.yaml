@@ -137,4 +137,5 @@ questions:
   - Відповідальна Особа
   question: Де можна знайти apk для встановлення Кропиви?
 randomize_questions: false
-show_right_answer: true
+show_right_answer: false
+title: Другий День Кропиви

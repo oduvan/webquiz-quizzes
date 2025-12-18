@@ -1,0 +1,54 @@
+questions:
+- correct_answer: 1
+  image: /imgs/tool-circl-center.png
+  options:
+  - 30-00
+  - 10-00
+  - 1-00
+  question: Який дирекційний кут показано на зображенні (в 60-00)?
+- correct_answer: 0
+  image: /imgs/tool-circl-panel.png
+  options:
+  - Початкова
+  - Цільова
+  - На одній висоті
+  question: Яка з двох точок знаходиться вище — початкова чи цільова?
+- correct_answer: 1
+  options:
+  - /imgs/main_tl_pin.png
+  - /imgs/main_tl_zriz.png
+  - /imgs/main_tl_plus.png
+  question: Яка кнопка відкриває зріз висот?
+- correct_answer: 1
+  image: /imgs/screen_visot.png
+  options:
+  - Зріз висот
+  - Карта висот
+  - Пряма видимість
+  question: Який інструмент зараз використовується?
+- correct_answer: 0
+  image: /imgs/screen_visot_arrow.png
+  options:
+  - Найвищу точку
+  - Найнижчу точку
+  - Місце, де багато риби
+  question: На яку точку вказує стрілка на карті висот?
+  stick_to_the_previous: true
+- correct_answer: 2
+  image: /imgs/screen_pryamo.png
+  options:
+  - Зріз висот
+  - Карта висот
+  - Пряма видимість
+  question: Який інструмент зараз використовується?
+- correct_answer: 0
+  image: /imgs/screen_pryamo_arrow.png
+  options:
+  - Спостерігач бачитиме цю точку
+  - Спостерігач не бачитиме цю точку
+  question: На яку точку вказує стрілка на прямій видимості?
+  stick_to_the_previous: true
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: false
+title: Кропива, робота з висотами

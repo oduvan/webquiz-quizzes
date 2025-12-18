@@ -1,0 +1,51 @@
+questions:
+- correct_answer:
+  - 0
+  - 2
+  options:
+  - OSM
+  - Visicom
+  - Генштаб
+  question: На якій топооснові можна побачити лінію електро передач?
+- correct_answer: 1
+  options:
+  - Генштаб
+  - OSM
+  - Супутник
+  question: Яка з топооснов створюється волонтерами?
+- correct_answer: 0
+  options:
+  - Супутник
+  - Генштаб
+  - Visicom
+  question: Яке з топооснов займає більше за все місця?
+- correct_answer: 1
+  options:
+  - Генштаб
+  - Visicom
+  - OSM
+  question: На якій топооснові найкраще відображено міську забудову та дороги?
+- correct_answer: 1
+  options:
+  - /imgs/desk_res.png
+  - /imgs/desk_onov.png
+  - /imgs/desk_rm.png
+  question: Як з цих додатків встановлюється першим?
+- correct_answer: 0
+  options:
+  - /imgs/desk_res.png
+  - /imgs/desk_onov.png
+  - /imgs/desk_rm.png
+  question: Яке з додатків допомагає завантажити топооснови в памʼять пристрою?
+- correct_answer: 1
+  image: /imgs/main_fast_bottom.png
+  options:
+  - Створити трек
+  - Швидке переключення між топоосновами
+  - Звернути додаток
+  question: Яку функцію виконує кнопка, розташована ліворуч від координат у нижній
+    частині екрана?
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: false
+title: Другий День Кропиви

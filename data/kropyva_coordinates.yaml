@@ -54,5 +54,6 @@ questions:
   question: Якою кнопкою можна обертати карту так, щоб вона була зорієнтована не лише
     на північ?
 randomize_questions: false
+show_answers_on_completion: false
 show_right_answer: true
 title: Основний інтерфейс
