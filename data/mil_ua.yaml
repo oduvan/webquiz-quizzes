@@ -1,0 +1,75 @@
+questions:
+- correct_answer: 1
+  options:
+  - /imgs/mil_cur_sent.png
+  - /imgs/mil_cur_coor.png
+  - /imgs/mil_create.png
+  question: Яка з цих кнопок переведе карту на вашу геопозицію?
+- correct_answer: 0
+  options:
+  - MGRS
+  - UTM
+  - УСК-2000
+  - WGS84
+  question: 36U XU 34674 23457 — який це тип координат?
+- correct_answer: 3
+  options:
+  - MGRS
+  - UTM
+  - УСК-2000
+  - WGS84
+  question: 48.67543, 35.86565 — який це тип координат?
+- correct_answer: 0
+  options:
+  - MGRS
+  - UTM
+  - УСК-2000
+  - WGS84
+  question: Яка система координат наразі використовується у Збройних Силах України?
+- correct_answer: 3
+  options:
+  - MGRS
+  - UTM
+  - УСК-2000
+  - WGS84
+  question: Якщо цивільний надіслав координати з Google Maps, то в якій вони системі?
+- correct_answer: 2
+  options:
+  - /imgs/mil_zoom_in.png
+  - /imgs/mil_select_map.png
+  - /imgs/mil_create.png
+  question: Яка з цих кнопок створить обʼєкт на карті?
+- correct_answer: 1
+  options:
+  - /imgs/mil_select_map.png
+  - /imgs/mil_objects.png
+  - /imgs/mil_search.png
+  question: Яка з цих кнопок покаже перелік створених обʼєктів?
+- correct_answer: 0
+  options:
+  - /imgs/mil_measure.png
+  - /imgs/mil_track_select.png
+  - /imgs/mil_select_map.png
+  question: Який інструмент допоможе створити новий трек?
+- correct_answer: 1
+  options:
+  - /imgs/mil_zoom_out.png
+  - /imgs/mil_search.png
+  - /imgs/mil_select_map.png
+  question: За допомогою якого інструменту можна перейти на вказану координату?
+- correct_answer: 1
+  options:
+  - /imgs/mil_track_rec.png
+  - /imgs/mil_measure.png
+  - /imgs/mil_zoom_out.png
+  question: За допомогою якого інструменту можна побудувати зріз висот?
+- correct_answer: 0
+  options:
+  - /imgs/mil_measure.png
+  - /imgs/mil_select_map.png
+  - /imgs/mil_track_rec.png
+  question: За допомогою якого інструменту можна розрахувати магнітний азімут?
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: true
+title: Milchat

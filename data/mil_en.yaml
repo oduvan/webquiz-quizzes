@@ -1,0 +1,75 @@
+questions:
+- correct_answer: 1
+  options:
+  - /imgs/mil_cur_sent.png
+  - /imgs/mil_cur_coor.png
+  - /imgs/mil_create.png
+  question: Which of these buttons will center the map on your current location?
+- correct_answer: 0
+  options:
+  - MGRS
+  - UTM
+  - USK-2000
+  - WGS84
+  question: 36U XU 34674 23457 — what coordinate system is this?
+- correct_answer: 3
+  options:
+  - MGRS
+  - UTM
+  - USK-2000
+  - WGS84
+  question: 48.67543, 35.86565 — what coordinate system is this?
+- correct_answer: 0
+  options:
+  - MGRS
+  - UTM
+  - USK-2000
+  - WGS84
+  question: Which coordinate system is currently used by the Armed Forces of Ukraine?
+- correct_answer: 3
+  options:
+  - MGRS
+  - UTM
+  - USK-2000
+  - WGS84
+  question: If a civilian sent coordinates from Google Maps, what system are they in?
+- correct_answer: 2
+  options:
+  - /imgs/mil_zoom_in.png
+  - /imgs/mil_select_map.png
+  - /imgs/mil_create.png
+  question: Which of these buttons will create an object on the map?
+- correct_answer: 1
+  options:
+  - /imgs/mil_select_map.png
+  - /imgs/mil_objects.png
+  - /imgs/mil_search.png
+  question: Which of these buttons will show the list of created objects?
+- correct_answer: 0
+  options:
+  - /imgs/mil_measure.png
+  - /imgs/mil_track_select.png
+  - /imgs/mil_select_map.png
+  question: Which tool will help create a new track?
+- correct_answer: 1
+  options:
+  - /imgs/mil_zoom_out.png
+  - /imgs/mil_search.png
+  - /imgs/mil_select_map.png
+  question: Which tool can be used to navigate to a specified coordinate?
+- correct_answer: 1
+  options:
+  - /imgs/mil_track_rec.png
+  - /imgs/mil_measure.png
+  - /imgs/mil_zoom_out.png
+  question: Which tool can be used to build an elevation profile?
+- correct_answer: 0
+  options:
+  - /imgs/mil_measure.png
+  - /imgs/mil_select_map.png
+  - /imgs/mil_track_rec.png
+  question: Which tool can be used to calculate a magnetic azimuth?
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: true
+title: Milchat
