@@ -1,4 +1,4 @@
-title: Висоти
+title: "Кропива: робота з висотами (повний)"
 questions:
 - question: Який дирекційний кут показано на зображенні (в 60-00)?
   image: /imgs/tool-circl-center.png
@@ -70,3 +70,6 @@ questions:
   - Відкриває балістичний калькулятор
   correct_answer: 1
 
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: true

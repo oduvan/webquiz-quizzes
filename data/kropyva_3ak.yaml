@@ -83,7 +83,7 @@ questions:
   - OSM
   - Visicom
   - Генштаб
-  question: На якій топооснові можна побачити лінію електро передач?
+  question: На якій топооснові можна побачити лінію електропередач?
 - correct_answer: 1
   options:
   - Генштаб
@@ -95,7 +95,7 @@ questions:
   - Супутник
   - Генштаб
   - Visicom
-  question: Яке з топооснов займає більше за все місця?
+  question: Яка з топооснов займає найбільше місця?
 - correct_answer: 1
   options:
   - Генштаб
@@ -107,25 +107,19 @@ questions:
   - /imgs/desk_res.png
   - /imgs/desk_onov.png
   - /imgs/desk_rm.png
-  question: Як з цих додатків встановлюється першим?
+  question: Який з цих додатків встановлюється першим?
 - correct_answer: 0
   options:
   - /imgs/desk_res.png
   - /imgs/desk_onov.png
   - /imgs/desk_rm.png
-  question: Яке з додатків допомагає завантажити топооснови в памʼять пристрою?
-- correct_answer: 2
-  options:
-  - Бойовий Порядок
-  - Сцени
-  - Треки
-  question: Який тип даних можна експортувати без введення пароля?
+  question: Який з додатків допомагає завантажити топооснови в памʼять пристрою?
 - correct_answer: 1
   image: /imgs/main_fast_bottom.png
   options:
   - Створити трек
   - Швидке переключення між топоосновами
-  - Звернути додаток
+  - Згорнути додаток
   question: Яку функцію виконує кнопка, розташована ліворуч від координат у нижній
     частині екрана?
 - correct_answer:
@@ -137,5 +131,5 @@ questions:
   - Відповідальна Особа
   question: Де можна знайти apk для встановлення Кропиви?
 randomize_questions: false
-show_right_answer: false
-title: Другий День Кропиви
+show_right_answer: true
+title: "Кропива: загальний тест (3АК)"

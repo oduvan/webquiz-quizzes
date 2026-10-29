@@ -1,0 +1,97 @@
+title: "Кропива: меню Карта"
+questions:
+- question: Яка кнопка відкриває це меню?
+  image: /imgs/map_menu_topo.png
+  options:
+  - /imgs/main_tr_func.png
+  - /imgs/main_tr_map.png
+  - /imgs/main_tr_topo.png
+  correct_answer: 1
+
+- question: Яка топооснова зараз увімкнена?
+  image: /imgs/map_menu_topo.png
+  options:
+  - OSM
+  - Генштаб
+  - Супутник
+  - Visicom
+  correct_answer: 2
+
+- question: Яку топооснову зроблено зі знімків Європейського космічного агентства?
+  image: /imgs/map_menu_topo.png
+  options:
+  - Sentinel
+  - OSM
+  - Visicom
+  correct_answer: 0
+  stick_to_the_previous: true
+
+- question: Що означає порядок регіонів у списку «Обрані регіони»?
+  options:
+  - Регіони вище в списку показуються поверх інших, коли карти перетинаються
+  - Порядок завантаження карт з інтернету
+  - Ні на що не впливає
+  correct_answer: 0
+
+- question: Ви скопіювали нові карти з флешки на планшет. Яку кнопку треба натиснути, щоб Кропива їх знайшла?
+  image: /imgs/map_menu_scan.png
+  options:
+  - Виділену кнопку — вона шукає карти на пристрої («сканування ресурсів»)
+  - Ніяку, треба перевстановити Кропиву
+  - Ніяку, Кропива знайде їх сама за добу
+  correct_answer: 0
+
+- question: Що робить кнопка, виділена на зображенні?
+  image: /imgs/map_menu_print.png
+  options:
+  - Фотографує місцевість камерою планшета
+  - Друкує карту (зберігає ділянку карти у файл)
+  - Робить скріншот екрана
+  correct_answer: 1
+
+- question: Що вимикає пункт «Написи»?
+  image: /imgs/map_menu_heights.png
+  options:
+  - Назви населених пунктів та інших об'єктів на карті
+  - Підписи тактичних позначок
+  - Координати внизу екрана
+  correct_answer: 0
+
+- question: Яка карта висот зараз увімкнена?
+  image: /imgs/map_menu_heights.png
+  options:
+  - Радар
+  - Поля видимості
+  correct_answer: 1
+
+- question: Чим карта висот «Поля видимості» (COPER) відрізняється від «Радар» (SRTM)?
+  options:
+  - Вона враховує ліси, посадки й забудову і точніша (близько 2 м)
+  - Вона менш точна (близько 30 м)
+  - Вона працює тільки з інтернетом
+  correct_answer: 0
+  stick_to_the_previous: true
+
+- question: Яка приблизна точність карти висот «Радар» (SRTM)?
+  options:
+  - 2 метри
+  - 30 метрів
+  - 300 метрів
+  correct_answer: 1
+  stick_to_the_previous: true
+
+- question: З якого масштабу працюють інструменти «Пряма видимість» і «Карта висот»? Введіть число.
+  correct_value: "10"
+  checker: |
+    assert to_int(user_answer) == 10, 'Правильна відповідь: з масштабу 10'
+
+- question: Скільки клітинок найбільше може мати сітка, створена в «Керування сітками»?
+  options:
+  - "300"
+  - "3000"
+  - "30000"
+  correct_answer: 1
+
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: true

@@ -68,7 +68,7 @@ questions:
   - /imgs/mil_measure.png
   - /imgs/mil_select_map.png
   - /imgs/mil_track_rec.png
-  question: За допомогою якого інструменту можна розрахувати магнітний азімут?
+  question: За допомогою якого інструменту можна розрахувати магнітний азимут?
 randomize_questions: false
 show_answers_on_completion: false
 show_right_answer: true

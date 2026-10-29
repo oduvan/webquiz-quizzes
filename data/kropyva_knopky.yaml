@@ -1,0 +1,133 @@
+title: "Кропива: кнопки головного екрана"
+questions:
+- question: Яка кнопка відкриває меню «Функції» (Перейти на координати, Редактор зон тощо)?
+  options:
+  - /imgs/main_tr_func.png
+  - /imgs/main_tr_map.png
+  - /imgs/main_tr_topo.png
+  correct_answer: 0
+
+- question: Яка кнопка відкриває меню керування картами (топооснова, написи, карти висот)?
+  options:
+  - /imgs/main_tr_topo.png
+  - /imgs/main_tr_map.png
+  - /imgs/main_tr_mission.png
+  correct_answer: 1
+
+- question: Яка кнопка відкриває меню топогеодезичних розрахунків (ТОПО)?
+  options:
+  - /imgs/main_tr_art.png
+  - /imgs/main_tr_mission.png
+  - /imgs/main_tr_topo.png
+  correct_answer: 2
+
+- question: Яка кнопка відкриває меню «Місії» — планування маршрутів і роботу з треками?
+  options:
+  - /imgs/main_tr_mission.png
+  - /imgs/main_tr_func.png
+  - /imgs/main_tr_art.png
+  correct_answer: 0
+
+- question: Яка кнопка відкриває меню «Артилерія»?
+  options:
+  - /imgs/main_tr_map.png
+  - /imgs/main_tr_art.png
+  - /imgs/main_tr_topo.png
+  correct_answer: 1
+
+- question: Яка кнопка відкриває налаштування додатку?
+  options:
+  - /imgs/main_tr_settings.png
+  - /imgs/main_tr_filter.png
+  - /imgs/main_tl_menu.png
+  correct_answer: 0
+
+- question: Яка кнопка запускає глобальний пошук?
+  options:
+  - /imgs/main_tr_filter.png
+  - /imgs/main_tr_add.png
+  - /imgs/main_tr_search.png
+  correct_answer: 2
+
+- question: Де шукає глобальний пошук? Оберіть усі правильні варіанти.
+  options:
+  - У пунктах меню
+  - У назвах об'єктів тактики та бойового порядку
+  - У прихованих сценах (з вимкненим відображенням)
+  - В інтернеті
+  correct_answer:
+  - 0
+  - 1
+  - 2
+  stick_to_the_previous: true
+
+- question: Яка кнопка дозволяє обрати, яку інформацію показувати на мапі?
+  options:
+  - /imgs/main_tr_search.png
+  - /imgs/main_tr_filter.png
+  - /imgs/main_tr_settings.png
+  correct_answer: 1
+
+- question: Яка кнопка швидко додає на мапу об'єкт бойового порядку за координатами цілевказівника?
+  options:
+  - /imgs/main_tl_plus.png
+  - /imgs/main_tl_tak.png
+  - /imgs/main_tr_add.png
+  correct_answer: 2
+
+- question: Яка кнопка відкриває список усіх сцен на пристрої?
+  options:
+  - /imgs/main_tl_menu.png
+  - /imgs/main_tl_scene.png
+  - /imgs/main_tl_chat.png
+  correct_answer: 0
+
+- question: Яка кнопка відкриває меню поточної сцени (структура сцени, експорт, налаштування)?
+  options:
+  - /imgs/main_tl_menu.png
+  - /imgs/main_tr_settings.png
+  - /imgs/main_tl_scene.png
+  correct_answer: 2
+
+- question: Що відкриває кнопка, виділена на зображенні?
+  image: /imgs/main_tl_chat.png
+  options:
+  - Чат поточної сцени, де також записуються всі зміни об'єктів
+  - Список контактів телефону
+  - Месенджер Signal
+  correct_answer: 0
+
+- question: Що показує кнопка «i», виділена на зображенні?
+  image: /imgs/main_tl_info.png
+  options:
+  - Інструкцію користувача
+  - Технічну інформацію про поточну сцену, наприклад кількість об'єктів
+  - Інформацію про версію Android
+  correct_answer: 1
+
+- question: Що показує позначка «T F», виділена на зображенні?
+  image: /imgs/main_br_net.png
+  options:
+  - Тип топооснови
+  - Стан мережевих з'єднань
+  - Режим «Тренування / Фронт»
+  correct_answer: 1
+
+- question: Що робить кнопка, виділена на зображенні?
+  image: /imgs/main_tr_panel.png
+  options:
+  - Розгортає або згортає бічну панель
+  - Повертає на попередній екран
+  - Перемикає між сценами
+  correct_answer: 0
+
+- question: Як ще можна змінювати масштаб карти, крім кнопок «+» і «−»?
+  options:
+  - Кнопками гучності планшета
+  - Кнопкою живлення
+  - Струснути планшет
+  correct_answer: 0
+
+randomize_questions: false
+show_answers_on_completion: false
+show_right_answer: true

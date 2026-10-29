@@ -50,5 +50,5 @@ questions:
   stick_to_the_previous: true
 randomize_questions: false
 show_answers_on_completion: false
-show_right_answer: false
-title: Кропива, робота з висотами
+show_right_answer: true
+title: "Кропива: робота з висотами"
